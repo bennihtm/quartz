@@ -9,4 +9,6 @@ If you look through my notes, you'll occasionally find things that don't make se
 
 This page was largely inspired by [Joschua's digital garden](https://notes.joschua.io/). 
 
+If you have any questions or comments, feel free to email me at "me @ <the_domain_you're_currently_on>".
+
 Thank you for being here! :)

@@ -229,8 +229,8 @@ export function createConfigFromDefault() {
         theme: {
           cdnCaching: true,
           typography: {
-            header: "Schibsted Grotesk",
-            body: "Source Sans Pro",
+            header: "Inter",
+            body: "Jetbrains Mono",
             code: "IBM Plex Mono",
           },
           colors: {
