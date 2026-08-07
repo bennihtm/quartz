@@ -1,12 +1,6 @@
 {
   "version": "1.0.0",
   "plugins": {
-    "alias-redirects": {
-      "source": "github:quartz-community/alias-redirects",
-      "resolved": "https://github.com/quartz-community/alias-redirects.git",
-      "commit": "1456d255430356ceacd8edffad8cb71853b4c978",
-      "installedAt": "2026-07-28T09:09:17.323Z"
-    },
     "article-title": {
       "source": "github:quartz-community/article-title",
       "resolved": "https://github.com/quartz-community/article-title.git",
@@ -55,12 +49,6 @@
       "commit": "47bd29211301d08daa481727b2395d55c1207155",
       "installedAt": "2026-07-28T09:09:19.561Z"
     },
-    "content-index": {
-      "source": "github:quartz-community/content-index",
-      "resolved": "https://github.com/quartz-community/content-index.git",
-      "commit": "1342d1eacfdabbcefa2c6a26f8346945a9d9860f",
-      "installedAt": "2026-07-28T09:09:19.700Z"
-    },
     "content-meta": {
       "source": "github:quartz-community/content-meta",
       "resolved": "https://github.com/quartz-community/content-meta.git",
@@ -97,12 +85,6 @@
       "commit": "ca7ac65ed60e94eae90ee8eec71160fd76ea6ae2",
       "installedAt": "2026-07-28T09:09:19.720Z"
     },
-    "encrypted-pages": {
-      "source": "github:quartz-community/encrypted-pages",
-      "resolved": "https://github.com/quartz-community/encrypted-pages.git",
-      "commit": "6df57329de79a600f19bc1d22c347862baece0a0",
-      "installedAt": "2026-07-28T09:09:22.115Z"
-    },
     "explicit-publish": {
       "source": "github:quartz-community/explicit-publish",
       "resolved": "https://github.com/quartz-community/explicit-publish.git",
@@ -114,12 +96,6 @@
       "resolved": "https://github.com/quartz-community/explorer.git",
       "commit": "06ea3d8e206f0edaab08556191adc75b2403e832",
       "installedAt": "2026-07-28T09:09:21.948Z"
-    },
-    "favicon": {
-      "source": "github:quartz-community/favicon",
-      "resolved": "https://github.com/quartz-community/favicon.git",
-      "commit": "6d41af0e5073bd760787340b7892ec5f351c24c4",
-      "installedAt": "2026-07-28T09:09:22.024Z"
     },
     "folder-page": {
       "source": "github:quartz-community/folder-page",

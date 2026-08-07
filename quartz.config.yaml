@@ -73,62 +73,62 @@ plugins:
     layout:
       position: right
       priority: 30
-  - source: github:quartz-community/crawl-links
+  - source: "@quartz-community/crawl-links"
     enabled: true
     options:
       markdownLinkResolution: shortest
     order: 60
-  - source: github:quartz-community/description
+  - source: "@quartz-community/description"
     enabled: true
     order: 70
-  - source: github:quartz-community/latex
+  - source: "@quartz-community/latex"
     enabled: true
     options:
       renderEngine: katex
     order: 80
-  - source: github:quartz-community/citations
+  - source: "@quartz-community/citations"
     enabled: false
     order: 85
-  - source: github:quartz-community/hard-line-breaks
+  - source: "@quartz-community/hard-line-breaks"
     enabled: true
     order: 90
-  - source: github:quartz-community/ox-hugo
+  - source: "@quartz-community/ox-hugo"
     enabled: false
     order: 91
-  - source: github:quartz-community/roam
+  - source: "@quartz-community/roam"
     enabled: false
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
-  - source: github:quartz-community/remove-draft
+  - source: "@quartz-community/remove-draft"
     enabled: true
-  - source: github:quartz-community/explicit-publish
+  - source: "@quartz-community/explicit-publish"
     enabled: false
-  - source: github:quartz-community/unlisted-pages
+  - source: "@quartz-community/unlisted-pages"
     enabled: true
     options: {}
     order: 45
-  - source: github:quartz-community/encrypted-pages
+  - source: "@quartz-community/encrypted-pages"
     enabled: true
     options:
       iterations: 600000
       passwordField: password
       unlistWhenEncrypted: false
       outputPath: static/encryptedContentIndex.json
-  - source: github:quartz-community/stacked-pages
+  - source: "@quartz-community/stacked-pages"
     enabled: false
     layout:
       position: afterBody
       priority: 50
       display: all
-  - source: github:quartz-community/alias-redirects
+  - source: "@quartz-community/alias-redirects"
     enabled: true
-  - source: github:quartz-community/content-index
+  - source: "@quartz-community/content-index"
     enabled: true
     options:
       enableSiteMap: true
       enableRSS: true
-  - source: github:quartz-community/favicon
+  - source: "@quartz-community/favicon"
     enabled: true
   - source: github:quartz-community/og-image
     enabled: true
