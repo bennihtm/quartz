@@ -132,13 +132,13 @@ plugins:
     enabled: true
   - source: github:quartz-community/og-image
     enabled: true
-  - source: github:quartz-community/cname
+  - source: "@quartz-community/cname"
     enabled: true
-  - source: github:quartz-community/canvas-page
+  - source: "@quartz-community/canvas-page"
     enabled: true
-  - source: github:quartz-community/content-page
+  - source: "@quartz-community/content-page"
     enabled: true
-  - source: github:quartz-community/folder-page
+  - source: "@quartz-community/folder-page"
     enabled: true
   - source: github:quartz-community/tag-page
     enabled: true
