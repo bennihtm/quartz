@@ -140,19 +140,19 @@ plugins:
     enabled: true
   - source: "@quartz-community/folder-page"
     enabled: true
-  - source: github:quartz-community/tag-page
+  - source: "@quartz-community/tag-page"
     enabled: true
-  - source: github:quartz-community/explorer
+  - source: "@quartz-community/explorer"
     enabled: true
     layout:
       position: left
       priority: 50
-  - source: github:quartz-community/graph
+  - source: "@quartz-community/graph"
     enabled: true
     layout:
       position: right
       priority: 10
-  - source: github:quartz-community/search
+  - source: "@quartz-community/search"
     enabled: true
     layout:
       position: left
@@ -160,50 +160,50 @@ plugins:
       group: toolbar
       groupOptions:
         grow: true
-  - source: github:quartz-community/backlinks
+  - source: "@quartz-community/backlinks"
     enabled: true
     layout:
       position: right
       priority: 50
-  - source: github:quartz-community/article-title
+  - source: "@quartz-community/article-title"
     enabled: true
     layout:
       position: beforeBody
       priority: 10
-  - source: github:quartz-community/content-meta
+  - source: "@quartz-community/content-meta"
     enabled: true
     layout:
       position: beforeBody
       priority: 20
-  - source: github:quartz-community/tag-list
+  - source: "@quartz-community/tag-list"
     enabled: false
     layout:
       position: beforeBody
       priority: 30
-  - source: github:quartz-community/page-title
+  - source: "@quartz-community/page-title"
     enabled: true
     layout:
       position: left
       priority: 10
-  - source: github:quartz-community/darkmode
+  - source: "@quartz-community/darkmode"
     enabled: true
     layout:
       position: left
       priority: 30
       group: toolbar
-  - source: github:quartz-community/reader-mode
+  - source: "@quartz-community/reader-mode"
     enabled: true
     layout:
       position: left
       priority: 35
       group: toolbar
-  - source: github:quartz-community/breadcrumbs
+  - source: "@quartz-community/breadcrumbs"
     enabled: false
     layout:
       position: beforeBody
       priority: 5
       condition: not-index
-  - source: github:quartz-community/comments
+  - source: "@quartz-community/comments"
     enabled: false
     options:
       provider: giscus
@@ -211,14 +211,14 @@ plugins:
     layout:
       position: afterBody
       priority: 10
-  - source: github:quartz-community/footer
+  - source: "@quartz-community/footer"
     enabled: true
     options:
       links:
         GitHub: https://github.com/bennihtm/quartz
-  - source: github:quartz-community/recent-notes
+  - source: "@quartz-community/recent-notes"
     enabled: false
-  - source: github:quartz-community/spacer
+  - source: "@quartz-community/spacer"
     enabled: true
     options: {}
     order: 25
@@ -226,11 +226,11 @@ plugins:
       position: left
       priority: 25
       display: mobile-only
-  - source: github:quartz-community/bases-page
+  - source: "@quartz-community/bases-page"
     enabled: true
     options: {}
     order: 50
-  - source: github:quartz-community/note-properties
+  - source: "@quartz-community/note-properties"
     enabled: true
     options:
       includeAll: false
@@ -252,23 +252,23 @@ plugins:
     options:
       theme: "primary"
       mode: "both"
-  - source: github:quartz-community/obsidian-plugin-excalidraw
+  - source: "@quartz-community/obsidian-plugin-excalidraw"
     enabled: true
     options:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
     order: 50
-#  - source: github:quartz-community/syntax-highlighting
-#    enabled: true
-#    options:
-#      theme:
-#        light: github-light
-#        dark: github-dark
-#      keepBackground: false
-#      clipboard: true
-#      tokenClassification: true
-#    order: 20
+  - source: "@quartz-community/syntax-highlighting"
+    enabled: true
+    options:
+      theme:
+        light: github-light
+        dark: github-dark
+      keepBackground: false
+      clipboard: true
+      tokenClassification: true
+    order: 20
 layout:
   groups:
     toolbar:
