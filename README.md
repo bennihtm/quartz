@@ -4,5 +4,6 @@ This repository contains what is both an [Obsidian](https://obsidian.md) vault (
 The files in `/content/` serve as my digital garden that is rendered using [Quartz](https://github.com/jackyzha0/quartz).
 The theme I'm using is [Primary](https://github.com/primary-theme/obsidian) made available on Quartz by [saberzero1/quartz-themes](https://github.com/saberzero1/quartz-themes). Thanks for the work on that!
 
-<img width="640" height="427" alt="chris-abney-qLW70Aoo8BE-unsplash_smol" src="https://github.com/user-attachments/assets/af83140b-ea91-4418-9ff7-a18c85655d02" />
+<img width="640" height="427" alt="a photo of a bunch of green bushes and plants, a garden" src="https://github.com/user-attachments/assets/af83140b-ea91-4418-9ff7-a18c85655d02" />
+
 Photo by <a href="https://unsplash.com/@chrisabney?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Abney</a> on <a href="https://unsplash.com/photos/area-covered-with-green-leafed-plants-qLW70Aoo8BE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
