@@ -135,8 +135,7 @@
   },
   "allowScripts": {
     "sharp@0.34.5": true,
-    "esbuild@0.27.7": true,
-    "esbuild@0.28.1": true,
-    "@parcel/watcher": true
+    "@parcel/watcher": true,
+    "esbuild@0.28.2": true
   }
 }
