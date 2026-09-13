@@ -12,7 +12,7 @@ Apologetik: beschäftigen mit Anfragen, Einwänden und Fragen zum Glauben
 
 Wir dürfen Rückfragen stellen, wir können Gott erkennen und erfragen.
 
-[[Matt 22#46]]: Du sollst deinen Herrn, den Gott, lieben mit ganzem Herzen, ganzer Seele und deinem ganzen Denken.
+Matthäus 22:46: Du sollst deinen Herrn, den Gott, lieben mit ganzem Herzen, ganzer Seele und deinem ganzen Denken.
 
 ## Die biblische Grundlage
 Apologetik ist der Bereich der Theologie, der sich mit dem Wahrheitsgehalt und der Begründung des Christlichen Glaubens auseinandersetzt
@@ -21,7 +21,7 @@ Apg.: Paulus redete mit ihnen aus der Schrift
 
 **1 Petrus 3:15** 
 
-![[1 Pet 3#15]]
+> sondern heiligt vielmehr Gott, den Herrn, in euren Herzen! Seid aber allezeit bereit zur Verantwortung gegenüber jedermann, der Rechenschaft fordert über die Hoffnung, die in euch ist, [und zwar] mit Sanftmut und Ehrerbietung;
 
 1: Warum?
 2: Wie?
@@ -36,7 +36,7 @@ Rechtfertigung / Verteilung des Christlichen Glaubens
 
 ## Prämisse 2: Verteidigung geschieht nie in Isolation, immer im **kulturellen Kontext**
 
-Paulus interviewt die Menschen auf dem Marktplatz bevor er spricht ([[Acts 17#17]])
+Paulus interviewt die Menschen auf dem Marktplatz bevor er spricht (Apostelgeschichte 17:17)
 
 Gott offenbart sich in der Natur, in Träumen 
 
@@ -44,7 +44,7 @@ Gott offenbart sich in der Natur, in Träumen
 
 ## Prämisse 3: das Evangelium antwortet auf existentielle Sehnsüchte 
 
-- ... über die Hoffnung, von der Ihr erfüllt seid. Denn immer wieder wird man euch auffordern, dafür rede und antwort zu stehen. [[1 Pet 3#15]]
+- ... über die Hoffnung, von der Ihr erfüllt seid. Denn immer wieder wird man euch auffordern, dafür rede und antwort zu stehen. (1 Petrus 3:15)
 
 - Talk about **the truth**, **the power** and **the beauty** of the gospel. - Lindsey Brown
 
@@ -56,11 +56,12 @@ Wie erlebst du die verändernde Kraft des Evangeliums in deinem Leben?
 ### Theologie
 - Die Frage nach Wahrheit
 - Existiert Gott?
-- 
+
 ### Glaube & Naturwissenschaften
 - Warum etwas glauben was man nicht sehen kann?
 - Evolution & Schöpfung 
 - Bewusstsein & KI
+
 ## Existentiell
 - Die Frage nach dem Leid
 - Warum brauche ich Gott überhaupt?
