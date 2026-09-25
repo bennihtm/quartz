@@ -250,8 +250,8 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: "primary"
-      mode: "both"
+      theme: primary
+      mode: both
   - source: "@quartz-community/obsidian-plugin-excalidraw"
     enabled: true
     options:
